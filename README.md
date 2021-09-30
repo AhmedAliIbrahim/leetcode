@@ -1,2 +1,3 @@
 # leetcode
-Problems solution in ruby
+
+Solutions for leetcode problems using Ruby.
